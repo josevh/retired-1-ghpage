@@ -1,2 +1,2 @@
-# [josevh.com](http://josevh.com)
-GitHub Page
+# [view page](http://josevh.github.io/retired-ghpage-1/)
+Retired GitHub Page
